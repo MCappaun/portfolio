@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.11.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# portfolio
+Portfólio Mateus Cappaun
+>>>>>>> ecae77b7ff3c11d08762161e18edd7db1f3d6545
